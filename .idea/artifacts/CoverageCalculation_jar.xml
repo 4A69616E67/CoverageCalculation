@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CoverageCalculation:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoverageCalculation_jar</output-path>
+    <root id="archive" name="CoverageCalculation.jar">
+      <element id="module-output" name="CoverageCalculation" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../BioJavaE/out/artifacts/BioJavaE_jar/BioJavaE.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BioJavaE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BioJavaE/out/artifacts/BioJavaE_jar/BioJavaE.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
